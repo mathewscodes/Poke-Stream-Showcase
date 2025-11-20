@@ -1,6 +1,6 @@
 # 🎮 Poke Stream - Browser Extension Game
 
-> **Status:** 🔒 *Projeto Privado (Código-fonte proprietário)* > **Tipo:** Extensão de Navegador / Aplicação Web Full Stack
+![Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-yellow?style=for-the-badge&logo=appveyor)
 
 ## 📖 Sobre o Projeto
 O **Poke Stream** é um jogo complexo desenvolvido como extensão de navegador, focado em coleta e batalha de criaturas em tempo real. Diferente de jogos simples de clique, este projeto implementa lógicas matemáticas avançadas de RPG, interação em tempo real via WebSockets e persistência de dados.
@@ -41,6 +41,27 @@ O objetivo foi criar uma experiência fluida onde o mapa e os eventos reagem ao 
 Este projeto foi concebido e arquitetado por mim, utilizando **Inteligência Artificial Generativa** como ferramenta de aceleração de desenvolvimento (Co-pilot).
 * **Meu Papel:** Definição das regras de negócio, arquitetura do banco de dados, lógica matemática (fórmulas de CPM/IV), design de interface e integração do Ably.
 * **Papel da IA:** Auxílio na escrita de sintaxe complexa de JavaScript/PHP, otimização de queries SQL e depuração de código (Debugging).
+
+## 🚧 Status e Roadmap
+O projeto encontra-se em desenvolvimento ativo (fase Beta). As principais mecânicas já estão funcionais, e o foco atual está em:
+
+- [x] Sistema de Captura e Cálculos de IV (Concluído)
+- [x] Integração WebSocket e Mapa Mundi (Concluído)
+- [ ] Implementação da tela de Batalhas PVP
+- [ ] Implementação da tela Pokédex
+- [ ] Implementação da tela "Meus Pokémon"
+- [ ] Implementação do sistema de Trocas (Trade System) entre jogadores
+- [ ] Otimização de queries no Banco de Dados para maior escala
+- [ ] Refatoração do Front-end para melhor responsividade
+
+## 📸 Demonstração
+
+### Tela Inicial e Mapa
+![Tela de Login](https://github.com/user-attachments/assets/d041b394-8d7a-4fc6-ad60-c0f11ab0eeba)
+![Mapa com Spawns](https://github.com/user-attachments/assets/e5515c80-2523-4a37-b3c1-e64e9a3b6bcb)
+![Sistema de Recompensa](https://github.com/user-attachments/assets/dc47c893-14e7-492b-ae3b-2715a8c8284b)
+![Tela de Captura](https://github.com/user-attachments/assets/b1210755-c115-4878-b22f-b79026678f2e)
+![Demonstração Tema Escuro](https://github.com/user-attachments/assets/f1fd80bd-2866-42b7-a2a1-9a37f2100fd7)
 
 ---
 *Este repositório serve como portfólio demonstrativo das minhas capacidades técnicas em lógica de programação e desenvolvimento Full Stack. Devido à natureza autoral do projeto, o código-fonte permanece privado.*
