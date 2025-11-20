@@ -56,12 +56,16 @@ O projeto encontra-se em desenvolvimento ativo (fase Beta). As principais mecân
 
 ## 📸 Demonstração
 
-### Tela Inicial e Mapa
-![Tela de Login](https://github.com/user-attachments/assets/d041b394-8d7a-4fc6-ad60-c0f11ab0eeba)
-![Mapa com Spawns](https://github.com/user-attachments/assets/e5515c80-2523-4a37-b3c1-e64e9a3b6bcb)
-![Sistema de Recompensa](https://github.com/user-attachments/assets/dc47c893-14e7-492b-ae3b-2715a8c8284b)
-![Tela de Captura](https://github.com/user-attachments/assets/b1210755-c115-4878-b22f-b79026678f2e)
-![Demonstração Tema Escuro](https://github.com/user-attachments/assets/f1fd80bd-2866-42b7-a2a1-9a37f2100fd7)
+[![Tela de Login](https://github.com/user-attachments/assets/1bada5fa-285d-468a-8884-6418b2d11fb8)]
+
+[![Mapa Mundi](https://github.com/user-attachments/assets/3ea2344e-0811-4c75-b678-f158613e6c8b)]
+
+[![Demonstração Pokéstop](https://github.com/user-attachments/assets/32c40d50-cc84-4912-a4ed-233fe854f978)]
+
+[![Demonstração Captura e Pokémon Shiny](https://github.com/user-attachments/assets/ed446f7e-1011-4d22-8e77-eaf77d00dba2)]
+
+[![Demonstração Falha na Captura](https://github.com/user-attachments/assets/41121e4a-ef7d-4cd5-862f-a5b57f585465)]
+
 
 ---
 *Este repositório serve como portfólio demonstrativo das minhas capacidades técnicas em lógica de programação e desenvolvimento Full Stack. Devido à natureza autoral do projeto, o código-fonte permanece privado.*
