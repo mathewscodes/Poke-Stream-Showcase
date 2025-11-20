@@ -56,15 +56,21 @@ O projeto encontra-se em desenvolvimento ativo (fase Beta). As principais mecân
 
 ## 📸 Demonstração
 
-[Tela de Login](https://github.com/user-attachments/assets/1bada5fa-285d-468a-8884-6418b2d11fb8)
+<h3 align="center">📱 Interface e Navegação</h3>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bada5fa-285d-468a-8884-6418b2d11fb8" width="250" alt="Tela de Login">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3ea2344e-0811-4c75-b678-f158613e6c8b" width="250" alt="Mapa Mundi">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/ed446f7e-1011-4d22-8e77-eaf77d00dba2" width="250" alt="Popup do Sistema">
+</p>
 
-[Mapa Mundi](https://github.com/user-attachments/assets/3ea2344e-0811-4c75-b678-f158613e6c8b)
-
-[Demonstração Pokéstop](https://github.com/user-attachments/assets/32c40d50-cc84-4912-a4ed-233fe854f978)
-
-[Demonstração Captura e Pokémon Shiny](https://github.com/user-attachments/assets/ed446f7e-1011-4d22-8e77-eaf77d00dba2)
-
-[Demonstração Falha na Captura](https://github.com/user-attachments/assets/41121e4a-ef7d-4cd5-862f-a5b57f585465)
+<h3 align="center">🎥 Gameplay em Ação (Vídeos)</h3>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/32c40d50-cc84-4912-a4ed-233fe854f978" width="250" controls></video>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <video src="https://github.com/user-attachments/assets/41121e4a-ef7d-4cd5-862f-a5b57f585465" width="250" controls></video>
+</p>
 
 
 ---
