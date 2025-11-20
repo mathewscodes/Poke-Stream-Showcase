@@ -56,7 +56,10 @@ O projeto encontra-se em desenvolvimento ativo (fase Beta). As principais mecân
 
 ## 📸 Demonstração
 
-[Tela de Login](https://github.com/user-attachments/assets/1bada5fa-285d-468a-8884-6418b2d11fb8) [Mapa Mundi](https://github.com/user-attachments/assets/3ea2344e-0811-4c75-b678-f158613e6c8b)
+[Tela de Login](https://github.com/user-attachments/assets/1bada5fa-285d-468a-8884-6418b2d11fb8) 
+
+
+[Mapa Mundi](https://github.com/user-attachments/assets/3ea2344e-0811-4c75-b678-f158613e6c8b)
 
 
 [Demonstração Pokéstop](https://github.com/user-attachments/assets/32c40d50-cc84-4912-a4ed-233fe854f978)
