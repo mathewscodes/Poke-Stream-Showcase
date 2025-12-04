@@ -60,6 +60,7 @@ O projeto encontra-se em desenvolvimento ativo (fase Beta). As principais mecân
 - [ ] Mapa interno para cavernas
 - [ ] Implementação do sistema de Trocas (Trade System) entre jogadores
 - [ ] Implementação do sistema de Evolução
+- [ ] Implementação de novos Servidores
 - [ ] Otimização de queries no Banco de Dados para maior escala
 - [ ] Refatoração do Front-end para melhor responsividade
 
