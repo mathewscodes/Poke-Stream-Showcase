@@ -52,14 +52,14 @@ O projeto encontra-se em desenvolvimento ativo (fase Beta). As principais mecân
 - [x] Sistema de níveis com ganho de experiência (Concluído)
 - [x] Sistema de discarte de itens e transferência de Pokémon (Concluído)
 - [ ] Sistema de missões com recompensas
-- [ ] Adição de eventos
-- [ ] Criação de tela do usuário
+- [x] Adição de eventos
+- [x] Criação de tela do usuário
 - [ ] Implementação da tela de Batalhas PVP
 - [ ] Implementação de novos itens
 - [ ] Implementação do sistema de cura
 - [ ] Mapa interno para cavernas
 - [ ] Implementação do sistema de Trocas (Trade System) entre jogadores
-- [ ] Implementação do sistema de Evolução
+- [x] Implementação do sistema de Evolução
 - [ ] Implementação de novos Servidores
 - [ ] Otimização de queries no Banco de Dados para maior escala
 - [ ] Refatoração do Front-end para melhor responsividade
